@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 😄
 
 [![NewGr8Player's Github Stats](https://github-readme-stats.vercel.app/api?username=NewGr8Player)](//newgr8player.top)
-
+<!--
 ![😄 Pronouns:宅](https://hanyu-word-gif.cdn.bcebos.com/b90488641deeb47849c0f9357d8ca3683.gif)
+-->
