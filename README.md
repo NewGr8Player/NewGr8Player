@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Rancher
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning 🤔
 - ⚡ Fun fact: 😄
 
